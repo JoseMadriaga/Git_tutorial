@@ -1,1 +1,4 @@
-# Git_tutorial
+# Git\_tutorial
+
+What's up CRG buddies?
+
